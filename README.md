@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @propelli22
+- 👀 I’m interested in technology, programming and 3D-modelling/3D-printing.
+- 🌱 I’m currently learning web-developement at Business College Helsinki
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I wear a hat that has a propeller on it, almost every day.
